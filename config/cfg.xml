@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+<!-- 界面布局类别JLable名称-->
+	<JLableType>
+		<name>公司类别</name>
+	</JLableType>
+
+<!--类别-->
+    <type>
+    	<id>01</id>
+    	<name>优秀</name>
+    </type>
+    <type>
+    	<id>02</id>
+    	<name>一般</name>
+    </type>
+</root>
